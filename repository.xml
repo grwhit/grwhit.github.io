@@ -15,7 +15,7 @@
 			<Documentation 
 					uri="https://support.sas.com/documentation/cdl/en/proc/67916/HTML/default/viewer.htm#n18jyszn33umngn14czw2qfw7thc.htm" 
 					label="PROC IMPORT Statement"/>
-			<Location uri="./snippets.xml"/>
+			<Location uri="./import/snippets.xml"/>
 		</Category>  
 
 
