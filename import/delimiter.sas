@@ -6,6 +6,7 @@
 /*** Replace the data set if it exists.***/
     /*** Specify delimiter as an & (ampersand).***/
 /*** Generate variable names from first row of data.***/
+/* newcomment */
 
 options nodate ps=60 ls=80;
 
