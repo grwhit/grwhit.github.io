@@ -5,5 +5,4 @@
 			<Location uri="./data/tasks.xml"/>
 		</Category>
 	</Tasks>
-	
 </Repository>
