@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tasks>
+	<Task>
+		<Name label="Line Chart"/>
+		<Template uri="./Line Chart.ctm"/>
+		<Keywords>
+            <Keyword word="CHART1"/>
+        </Keywords>
+	</Task>
+</Tasks>
