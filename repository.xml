@@ -5,9 +5,5 @@
 			<Location uri="./data/tasks.xml"/>
 		</Category>
 	</Tasks>
-	<Snippets>
-		<Category label="Example Snippets">
-			<Location uri="./sgplot/snippets.xml"/>
-		</Category>
-	</Snippets>
+	
 </Repository>
