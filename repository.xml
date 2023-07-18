@@ -2,7 +2,7 @@
 <Repository label="Example SAS Studio Repository" version="1.0">
 	<Tasks>
 		<Category label="Example Tasks">
-			<Location uri="./tasks.xml"/>
+			<Location uri="./data/tasks.xml"/>
 		</Category>
 	</Tasks>
 	<Snippets>
