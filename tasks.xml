@@ -7,4 +7,11 @@
             <Keyword word="CHART1"/>
         </Keywords>
 	</Task>
+	<Task>
+		<Name label="Box Plot"/>
+		<Template uri="./Box Plot.ctm"/>
+		<Keywords>
+            <Keyword word="CHART5"/>
+        </Keywords>
+	</Task>
 </Tasks>
